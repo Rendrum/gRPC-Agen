@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1Bft7Xj7CuENOPQGCgXPJgJ1UCA0FKW45l6tHOQY2r/EKRbEkR4VlQckCAs2Q32KVWzongZuAWiaNHJAdVN3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Scooby\\Desktop\\Agent gRPC\\Sender\\Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Scooby\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\grpc\\2.32.0\\grpc.2.32.0.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\grpc.core\\2.32.0\\grpc.core.2.32.0.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\grpc.core.api\\2.32.0\\grpc.core.api.2.32.0.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\grpc.net.client\\2.31.0\\grpc.net.client.2.31.0.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\grpc.net.common\\2.31.0\\grpc.net.common.2.31.0.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Scooby\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

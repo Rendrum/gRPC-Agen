@@ -1,0 +1,10 @@
+C:\Users\Scooby\Desktop\Agent gRPC\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Scooby\Desktop\Agent gRPC\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Scooby\Desktop\Agent gRPC\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Scooby\Desktop\Agent gRPC\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Scooby\Desktop\Agent gRPC\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scooby\Desktop\Agent gRPC\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Scooby\Desktop\Agent gRPC\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Scooby\Desktop\Agent gRPC\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Scooby\Desktop\Agent gRPC\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Scooby\Desktop\Agent gRPC\Common\obj\Debug\netcoreapp3.1\Common.pdb

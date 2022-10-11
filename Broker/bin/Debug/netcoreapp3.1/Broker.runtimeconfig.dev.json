@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Scooby\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Scooby\\.nuget\\packages"
+    ]
+  }
+}
